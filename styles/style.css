@@ -58,5 +58,110 @@ nav p button{
     justify-content: center;
     align-items: center;
 }
+/* second-section-start*/
+.banner-section-container{
+    width: 946px;
+    height: 336px;
+    border: 2px solid red;
+    background-color: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
 
+.banner-section-content{
+    display: flex;
+    width: 850px;
+    
+}
+.banner-text-container{
+    width: 50%;
+    height: 336px;
 
+}
+
+.banner-image-container{
+    width: 50%;
+    height: 336px;
+}
+
+.banner-section-container-2{
+    width: 946px;
+    height: 336px;
+    border: 2px solid red;
+    background-color: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+
+}
+
+.banner-section-content-2{
+    display: flex;
+    width: 850px;
+}
+
+.banner-text-container-2{
+    width: 50%;
+    height: 336px;
+
+}
+
+.banner-image-container-2{
+    width: 50%;
+    height: 336px;
+}
+
+.banner-section-container-3{
+    width: 946px;
+    height: 336px;
+    border: 2px solid red;
+    background-color: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+
+}
+
+.banner-section-content-3{
+    display: flex;
+    width: 850px;
+}
+
+.banner-text-container-3{
+    width: 50%;
+    height: 336px;
+
+}
+
+.banner-image-container-3{
+    width: 50%;
+    height: 336px;
+}
+
+.second-section{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 80px 97px;
+}
+/* shared style */
+.title{
+    font-size: 32px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+}
+
+.description{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+}
+
+/* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* My Inspiration */
+.inspiration{
+    text-align: center;
+    margin-top: 90px;
+}
+
+.target{
+    text-align: center;
+    margin-top: 151px;
+
+}
